@@ -1,0 +1,8 @@
+### How Algo works ###
+
+1, We're using dictionary to mimic the hash table data structure in order to record the total  number to sales per department.
+2, Keys are departments, whereas their values are sequential sums of sales.
+3, After creating the dictionary, we're creating a CSV.
+
+### Computational complexity: Big O ###
+For python dictionaries, which are based on a hash-table the worst case of finding an element is O(n) and average case is O(1)

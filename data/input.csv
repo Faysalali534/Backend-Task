@@ -1,0 +1,70 @@
+department,date,sale
+Electronics,2020-01-01,20
+Electronics,2020-01-11,40
+Electronics,2020-01-21,1
+Electronics,2020-01-22,5
+Electronics,2020-02-01,7
+Electronics,2020-02-05,7
+Electronics,2020-02-11,4
+Electronics,2020-02-15,20
+Electronics,2020-02-17,20
+Electronics,2020-02-20,32
+Electronics,2020-02-21,22
+Glam,2020-01-11,40
+Glam,2020-01-21,1
+Glam,2020-01-22,5
+Glam,2020-02-01,7
+Glam,2020-02-05,7
+Glam,2020-02-11,4
+Glam,2020-02-15,20
+Glam,2020-02-17,20
+Glam,2020-02-20,32
+Glam,2020-02-21,22
+Glam,2020-02-23,20
+Grocery,2020-01-01,205
+Grocery,2020-01-21,122
+Grocery,2020-01-22,51
+Grocery,2020-02-01,75
+Grocery,2020-02-05,70
+Grocery,2020-02-11,425
+Grocery,2020-02-15,209
+Grocery,2020-02-17,200
+Grocery,2020-02-20,321
+Grocery,2020-02-21,221
+Frozen foods,2020-01-01,20
+Frozen foods,2020-01-21,122
+Frozen foods,2020-01-22,51
+Frozen foods,2020-02-01,75
+Frozen foods,2020-02-05,70
+Frozen foods,2020-02-11,425
+Frozen foods,2020-02-15,209
+Frozen foods,2020-02-17,200
+Frozen foods,2020-02-20,321
+Frozen foods,2020-02-21,221
+Meat,2020-01-01,20
+Meat,2020-01-22,51
+Meat,2020-02-01,75
+Meat,2020-02-05,70
+Meat,2020-02-11,425
+Meat,2020-02-15,209
+Meat,2020-02-17,200
+Meat,2020-02-20,321
+Meat,2020-02-21,221
+Dairy,2020-01-01,20
+Dairy,2020-01-22,51
+Dairy,2020-02-01,75
+Dairy,2020-02-05,70
+Dairy,2020-02-11,425
+Dairy,2020-02-15,209
+Dairy,2020-02-17,200
+Dairy,2020-02-20,321
+Dairy,2020-02-21,221
+Beverages,2020-01-01,20
+Baby Care,2020-01-01,20
+Baby Food,2020-01-01,20
+Fragrances,2020-01-01,20
+Bakery,2020-01-01,20
+Seafood,2020-01-01,20
+Desserts,2020-01-01,20
+House Cleaning,2020-01-01,20
+Cooking Essentials,2020-01-01,20
